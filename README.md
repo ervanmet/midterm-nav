@@ -5,7 +5,7 @@ A small, responsive multi-page portfolio website built with HTML, SCSS, and Java
 ## Team
 
 - **Eve Vanmeter** — team leader
-- **Noone2809** — teammate and GitHub contributor
+- **Chris Cucuietu** — teammate and GitHub contributor
 
 ## GitHub
 
