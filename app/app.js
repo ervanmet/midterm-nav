@@ -14,4 +14,17 @@ function initApp() {
     window.addEventListener("hashchange", changeRoute);
 }
 
+function myFunction() {
+  var x = document.getElementById("myLinks");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+document.querySelector(".topnav a.icon")
+    .addEventListener("click", myFunction);
+
 initApp();
+
+
