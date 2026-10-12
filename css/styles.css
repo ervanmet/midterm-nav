@@ -1,3 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  font-family: "Poppins", sans-serif;
+}
+
 .hero {
   display: flex;
   align-items: center;
@@ -117,6 +128,6 @@ section img {
 
 /* Style the active link (or home/logo) */
 .active {
-  background-color: #04AA6D;
+  background-color: #5b9dd3;
   color: white;
 }
